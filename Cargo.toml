@@ -1,0 +1,10 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+authors = ["Rajasekharan Vengalil <rajave@microsoft.com>"]
+
+[dependencies]
+num = "0.1.40"
+image = "0.17.0"
+crossbeam = "0.3.0"
+num_cpus = "1.7.0"
